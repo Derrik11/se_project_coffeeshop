@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+This project has taught me a lot, and excited to move forward. Even though I do not understand every command, the more I work on these projects every day the more I understand. If i can add more styles and animations I would. 
