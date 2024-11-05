@@ -7,6 +7,7 @@
   background-image: url(../images/background_header.svg);
   position: relative;
   background-size: cover;
+  z-index: 1;
 }
 .header__image {
   position: absolute;
@@ -14,8 +15,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
-
-
+  z-intex: -1;
 }
 .header__title {
   margin: 183px 0 0;
@@ -33,7 +33,6 @@
   font-style: italic;
   font-size: 60px;
   line-height: 72px;
-
 }
 .header__description {
   font-family: "Noto Seri", "Times New Roman", Serif;

@@ -8,7 +8,6 @@
     flex-direction: column;
     align-items: center;
   }
-
   .menu__title {
     margin: 0 0 24px;
     max-width: 780px;
@@ -17,7 +16,6 @@
     font-size: 44px;
     line-height: 52px;
   }
-
   .menu__subtitle {
     margin: 0 0 100px;
     max-width: 780px;
@@ -26,7 +24,6 @@
     font-size: 20px;
     line-height: 30px;
   }
-
   .menu__cards {
     margin: 0;
     padding: 0;

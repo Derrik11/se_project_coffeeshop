@@ -1,13 +1,11 @@
 .form {
   max-width: 385px;
 }
-
 .form__fieldset {
   margin: 0;
   padding: 0;
   border: none;
 }
-
 .form__label {
   color: #000;
   font-family: "Inter", "Arial", sans-serif;
@@ -15,7 +13,6 @@
   font-size: 16px;
   line-height: 20px;
 }
-
 .form__input {
   font-family: "Inter", "Arial", sans-serif;
   font-size: 20px;
@@ -28,7 +25,6 @@
   border: 1px solid #838383;
   border-radius: 4px;
 }
-
 .form__button {
   color: #fff;
   background-color: #1878dc;
@@ -46,11 +42,9 @@
   cursor: pointer;
   transition: background-color 1s;
 }
-
 .form__button:hover {
   background-color: #3f96f3;
 }
-
 .form__checkbox {
   border-radius: 2px;
   background-color: #1878dc;
@@ -58,7 +52,6 @@
   width: 20px;
   height: 20px;
 }
-
 .form__label_type_checkbox {
   display: flex;
   justify-content: center;
